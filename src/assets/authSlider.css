@@ -1,0 +1,11 @@
+.auth-slider-toLeft {
+  transform: translateX(0);
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.auth-slider-toRight {
+  transform: translateX(+100%);
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
